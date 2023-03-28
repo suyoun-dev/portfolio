@@ -56,9 +56,10 @@ GPA: 4.18/4.5
 
 # 🗂️Projects
 
-### 트위터 크롤링 데이터 기반 비교문화
+### 트위터 크롤링 데이터 기반 비교문화 분석
 
-**[윌스미스 크리스락 폭행 사건 - 윌스미스 키워드 중심으로]
+**[Public’s appraisal of a wrongdoer from a cultural perspective : 
+BERTopic, Semantic network analysis of Twitter in the United States and South Korea]**
 
 **2022.09.03~2023. **
 - **사용 언어** : Python
